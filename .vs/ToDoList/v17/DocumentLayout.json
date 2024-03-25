@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ToDoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|c:\\projects\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|c:\\projects\\todolist\\todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|c:\\projects\\todolist\\todolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|c:\\projects\\todolist\\todolist\\entity\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF235BF-7415-4818-BBE1-A1359D12C158}|ToDoList\\ToDoList.csproj|solutionrelative:todolist\\entity\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoList\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Projects\\ToDoList\\ToDoList\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoList\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T17:46:09.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoList\\ToDoList\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Models\\ToDo.cs",
+              "ToolTip": "C:\\Projects\\ToDoList\\ToDoList\\Models\\ToDo.cs",
+              "RelativeToolTip": "ToDoList\\Models\\ToDo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:25:11.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoDb.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoList\\ToDoList\\Entity\\ToDoDb.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Entity\\ToDoDb.cs",
+              "ToolTip": "C:\\Projects\\ToDoList\\ToDoList\\Entity\\ToDoDb.cs",
+              "RelativeToolTip": "ToDoList\\Entity\\ToDoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:27:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList\\Program.cs",
+              "ToolTip": "C:\\Projects\\ToDoList\\ToDoList\\Program.cs",
+              "RelativeToolTip": "ToDoList\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:20:32.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
